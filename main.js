@@ -15,7 +15,14 @@ const textLists = [
   'pink','yellow','green','train','money',
   'pen','cup','water','book','soup','tomato',
   'potato','milk','black','white','note',
-  'fire','bag','shoes','paper'
+  'fire','bag','shoes','paper','sun','monday',
+  'sunday','wednesday','tuesday','friday',
+  'thursday','saturday','thunder','rock',
+  'salad','onion','box','monkey','dog','cat',
+  'cow','horse','snake','rat','fish','flower',
+  'bird','pig','math','science','english','japanese',
+  'music','art','soccer','basketball','baseball','tennis',
+  'tabletennis','volleyball','swim','speak','time'
 ];
 
 // ランダムなテキストを表示

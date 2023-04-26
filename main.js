@@ -11,7 +11,8 @@ const start = document.getElementById('start');
 const count = document.getElementById('count');
 // 複数のテキストを格納する配列
 const textLists = [
-  ''
+  'apple','grape','car','bike','red','blue',
+  'pink','yellow','green'
 ];
 
 // ランダムなテキストを表示
